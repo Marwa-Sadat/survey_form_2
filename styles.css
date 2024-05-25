@@ -3,29 +3,31 @@ body {
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
-}
-
-h1, p {
+  }
+  
+  h1,
+  p {
     text-align: center;
-}
-
-form {
+  }
+  
+  form {
     display: flex;
     flex-direction: column;
-}
-
-label, input, select, textarea, button {
+  }
+  
+  label,
+  input,
+  select,
+  textarea,
+  button {
     margin: 10px 0;
-}
-
-button {
+  }
+  
+  button {
     padding: 10px;
-    background-color: #4CAF50;
+    background-color: #4caf50; 
     color: white;
     border: none;
     cursor: pointer;
-}
-
-button:hover {
-    background-color: #45a049;
-}
+  }
+  
